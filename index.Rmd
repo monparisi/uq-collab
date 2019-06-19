@@ -5,6 +5,7 @@ date: "19/06/2019"
 output: html_document
 ---
 
+<<<<<<< HEAD
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -28,3 +29,7 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+=======
+Link to cheat sheet for R Markdown: 
+https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf 
+>>>>>>> 013b4ab13933ca217043cd34cde15fc9cc284d78
